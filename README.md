@@ -1,4 +1,4 @@
-### Hi, I'm Martin 👋
+### 👋 Hi, I'm Martin 
 <!--
 **martin-wanerskar/martin-wanerskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
