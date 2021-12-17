@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m working on making life frictionless for developers at [Volvo Cars](https://www.volvocars.com/)
-- 🌱 I’m currently learning more about GitHub Discussions, [Documentation](https://documentation.divio.com/introduction/) as Code and Open Source
-- 👀 I’m interested in fascinating things that includes horror of some sort. Like WW2, code production, golf and black metal
+- 🌱 I’m currently learning more about GitHub Discussions and Actions, [Documentation](https://documentation.divio.com/introduction/) as Code and Open Source
+- 👀 I’m interested in all kinds of fascinating things. Like WW2, code production, golf and black metal
 - 🎸Jimmi Page, Randy Rhoads, Brent Hinds. Similar but different - equally brilliant
 - 📫 Get in touch)
 
